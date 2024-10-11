@@ -1,0 +1,14 @@
+User-agent: *
+
+Allow: /wp-content/uploads/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /wp-admin/
+Disallow: /widgets/
+Disallow: /page
+Disallow: /wp_cron.php
+Disallow: /xmlrpc.php
+
+
+Sitemap: https://themewant.com/featurl/sitemap-index.xml
+Sitemap: https://themewant.com/featurl/sitemap-index-1.xml
